@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://bit.ly/2KpDonX' target='_blank'><img src='http://inhoahiep.com/wp-content/uploads/2016/09/in-hop-giay-3.jpg' width='500px'/><br/>13 Kỹ thuật đẩy top vượt trội</a>. Học tại nhà CEO Faceseo. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://bit.ly/2KpDonX' target='_blank'><img src='http://inhoahiep.com/wp-content/uploads/2016/09/in-hop-giay-3.jpg' width='500px'/><br/>in tui giay kraft giá rẻ</a>. LH: 0933996282. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
